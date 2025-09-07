@@ -96,5 +96,8 @@ A computer vision and embedded systems project that integrates **OpenCV (Python)
 
 # 👨‍💻 Author
 
- - Ahmed Gwely
- - Passionate about Computer Vision, Embedded Systems, and AI-driven IoT.
+- **Ahmed Gwely**  
+- Passionate about Computer Vision, Embedded Systems, and AI-driven IoT.  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-gwely-2589611b0/)  
+
+
